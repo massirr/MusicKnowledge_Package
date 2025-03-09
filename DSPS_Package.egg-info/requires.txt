@@ -1,0 +1,4 @@
+PILLOW
+playsound
+requests
+sequencematcher
